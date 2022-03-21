@@ -3,4 +3,11 @@
     height: 300px; 
     display: flex; 
     flex-wrap: wrap; 
+    align-content: flex-end;
+}
+
+h2 {
+    font-family: American Typewriter, serif;
+    text-align: center;
+
 }
