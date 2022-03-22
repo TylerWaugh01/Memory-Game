@@ -4,11 +4,28 @@
     display: flex; 
     flex-wrap: wrap; 
     align-content: flex-end;
+    margin: auto;
+}
+
+body {
+    background-color: coral;
 }
 
 
 h2 {
     font-family: American Typewriter, serif;
     text-align: center;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+
+
+}
+
+h3 {
+    text-align: center;
+    
 
 }
