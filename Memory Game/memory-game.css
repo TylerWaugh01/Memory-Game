@@ -16,10 +16,12 @@ h2 {
     font-family: American Typewriter, serif;
     text-align: center;
     margin: auto;
+    text-size-adjust: larger;
 }
 
 p {
     text-align: center;
+    background-color: aquamarine;
 
 
 }
